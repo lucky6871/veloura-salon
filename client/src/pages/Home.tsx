@@ -25,12 +25,12 @@ import {
 } from "@/components/ui/dialog";
 
 const assets = {
-  hero: "/manus-storage/veloura-navy-hero_f0c3302a.jpg",
-  hair: "/manus-storage/veloura-navy-hair_c1e014ca.jpg",
-  artist: "/manus-storage/veloura-navy-portrait_bc2d6d41.jpg",
-  interior: "/manus-storage/veloura-interior_225b9ac8.jpg",
-  detail: "/manus-storage/veloura-service-color_32bb10a6.jpg",
-  monogram: "/manus-storage/veloura-monogram_d9f5f2c5.png",
+  hero: "/images/veloura-navy-hero.webp",
+  hair: "/images/veloura-navy-hair.webp",
+  artist: "/images/veloura-navy-portrait.webp",
+  interior: "/images/veloura-interior.webp",
+  detail: "/images/veloura-service-color.webp",
+  monogram: "/images/veloura-logo.webp",
 };
 
 const services = [
